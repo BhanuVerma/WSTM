@@ -41,7 +41,6 @@ def test_run():
 
     norm_vector = np.linalg.norm(new_mat, ord=1, axis=0)
     unit_norm = new_mat/norm_vector
-    print unit_norm.shape
 
     # Question 7
 
@@ -50,7 +49,10 @@ def test_run():
 
     # Question 8
     vector = np.ones(unit_norm.shape)
+    print unit_norm
     print vector
+    print
+    print np.multiply(unit_norm, vector)
 
 
 
