@@ -41,6 +41,7 @@ def test_run():
 
     norm_vector = np.linalg.norm(new_mat, ord=1, axis=0)
     unit_norm = new_mat/norm_vector
+    # print unit_norm
 
     # Question 7
 
@@ -48,11 +49,10 @@ def test_run():
     # print u_dash, s_dash, v_dash
 
     # Question 8
-    vector = np.ones(unit_norm.shape)
-    print unit_norm
-    print vector
-    print
-    print np.multiply(unit_norm, vector)
+    vector = np.ones((1, unit_norm.shape[0]))
+    eigen = vector.dot(unit_norm)
+    # print eigen
+    # Yes, this is an eigenvector
 
 
 
