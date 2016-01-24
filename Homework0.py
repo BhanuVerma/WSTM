@@ -124,8 +124,6 @@ def test_run():
     # mean_1 = sum_val_1/len(elements)
     # print("--- %s seconds ---" % (time.time() - start_time))
 
-    # print mean
-
 
 if __name__ == "__main__":
     test_run()
