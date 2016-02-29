@@ -47,6 +47,8 @@ def test_run():
 
     b_u = np.zeros(mat.shape[0])
     b_i = np.zeros(mat.shape[1])
+    u_step = np.zeros(mat.shape[0])
+    i_step = np.zeros(mat.shape[1])
 
     for i, val in enumerate(b_u):
         if mat.getrow(i).sum() == 0:
@@ -63,12 +65,70 @@ def test_run():
     sigma = 0
 
     for i, val in enumerate(t_rating):
-        sigma += (val - (mu + b_u[u_test[i]] + b_i[i_test[i]]))**2
+        sigma += (val - (mu + b_u[int(u_test[i])] + b_i[int(i_test[i])]))**2
 
     rmse = (sigma/float(len(t_rating)))**0.5
-    print rmse
+    # print rmse
 
     # plt.show()
+    rmse_arr = []
+    for z in range(10):
+        # sigma of cost function
+        lambda_val = 25
+        sq_diff = 0
+        b_u_square_sum = 0
+        b_i_square_sum = 0
+
+        for i, val in enumerate(ratings):
+            u_index = int(user[i])
+            i_index = int(item[i])
+            sq_diff += (val - mu - b_u[u_index] - b_i[i_index])**2
+            b_u_square_sum += b_u[u_index]**2
+            b_i_square_sum += b_i[i_index]**2
+
+        reg_val = lambda_val * (b_u_square_sum + b_u_square_sum)
+        cost = sq_diff + reg_val
+        # u step
+        for i, val in enumerate(b_u):
+            if mat.getrow(i).sum() == 0:
+                u_step[i] = 0
+            else:
+                r_ui = mat.getrow(i).sum()
+                u_sum = mu * u_count[i]
+                bu_sum = b_u[i] * u_count[i]
+                bi_sum = 0
+                i_indices = mat.getrow(i).indices
+                for index in i_indices:
+                    bi_sum += b_i[index]
+
+                u_step[i] = -2*(r_ui - u_sum - bu_sum - bi_sum) + 2*lambda_val*bu_sum
+
+        # i step
+        for i, val in enumerate(b_i):
+            if mat.getcol(i).sum() == 0:
+                i_step[i] = 0
+            else:
+                r_ui = mat.getcol(i).sum()
+                u_sum = mu * i_count[i]
+                bi_sum = b_i[i] * i_count[i]
+                bu_sum = 0
+                u_indices = mat.getcol(i).indices
+                for index in u_indices:
+                    bu_sum += b_u[index]
+
+                i_step[i] = -2*(r_ui - u_sum - bu_sum - bi_sum) + 2*lambda_val*bi_sum
+
+        b_u = b_u - (u_step * (1/float(2*len(ratings))))
+        b_i = b_i - (i_step * (1/float(2*len(ratings))))
+        sigma = 0
+
+        for i, val in enumerate(t_rating):
+            sigma += (val - (mu + b_u[int(u_test[i])] + b_i[int(i_test[i])]))**2
+
+        rmse = (sigma/float(len(t_rating)))**0.5
+        rmse_arr.append(rmse)
+
+    print min(rmse_arr)
 
 if __name__ == "__main__":
     test_run()
