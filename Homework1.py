@@ -176,7 +176,6 @@ def test_run():
     #
     # print("--- %s seconds ---" % (time.time() - start_time))
 
-    print "bhanu"
 
 
 if __name__ == "__main__":
