@@ -1,0 +1,120 @@
+iterations done  0  Loss  0
+Testing Error 1366444.78627
+----------------------
+iterations done  50  Loss  0
+Testing Error 1366446.62043
+----------------------
+iterations done  100  Loss  0
+Testing Error 1366446.61994
+----------------------
+iterations done  150  Loss  0
+Testing Error 1370507.15476
+----------------------
+iterations done  200  Loss  0
+Testing Error 1370510.08165
+----------------------
+iterations done  250  Loss  0
+Testing Error 1370522.44177
+----------------------
+iterations done  300  Loss  0
+Testing Error 1370166.05172
+----------------------
+iterations done  350  Loss  0
+Testing Error 1370723.68754
+----------------------
+iterations done  400  Loss  0
+Testing Error 1370693.26452
+----------------------
+iterations done  450  Loss  0.290518230487
+Testing Error 1370408.84194
+----------------------
+iterations done  500  Loss  0
+Testing Error 1364345.10559
+----------------------
+iterations done  550  Loss  0
+Testing Error 1360307.17458
+----------------------
+iterations done  600  Loss  0
+Testing Error 1358173.73713
+----------------------
+iterations done  650  Loss  0
+Testing Error 1356292.17934
+----------------------
+iterations done  700  Loss  0
+Testing Error 1356480.94624
+----------------------
+iterations done  750  Loss  0
+Testing Error 1355567.7795
+----------------------
+iterations done  800  Loss  0
+Testing Error 1355594.90268
+----------------------
+iterations done  850  Loss  266.121402709
+Testing Error 1355578.2046
+----------------------
+iterations done  900  Loss  0
+Testing Error 1355334.98305
+----------------------
+iterations done  950  Loss  0
+Testing Error 1314831.96754
+----------------------
+iterations done  1000  Loss  732.248431063
+Testing Error 1339502.28221
+----------------------
+iterations done  1050  Loss  1521.88307069
+Testing Error 1344999.19906
+----------------------
+iterations done  1100  Loss  0
+Testing Error 1339999.99091
+----------------------
+iterations done  1150  Loss  150.493049219
+Testing Error 1308652.65436
+----------------------
+iterations done  1200  Loss  0
+Testing Error 1285580.31902
+----------------------
+iterations done  1250  Loss  253.094384564
+Testing Error 1276762.42531
+----------------------
+iterations done  1300  Loss  278.475965319
+Testing Error 1256844.565
+----------------------
+iterations done  1350  Loss  0
+Testing Error 1242786.04011
+----------------------
+iterations done  1400  Loss  2135.83610951
+Testing Error 1227872.64547
+----------------------
+iterations done  1450  Loss  48.6577784455
+Testing Error 1175818.96959
+----------------------
+iterations done  1500  Loss  0
+Testing Error 1169435.89824
+----------------------
+iterations done  1550  Loss  0
+Testing Error 1141740.3975
+----------------------
+iterations done  1600  Loss  0
+Testing Error 1131705.77693
+----------------------
+iterations done  1650  Loss  3665.97615431
+Testing Error 1127793.94021
+----------------------
+iterations done  1700  Loss  0
+Testing Error 1122184.11236
+----------------------
+iterations done  1750  Loss  0
+Testing Error 1129610.83065
+----------------------
+iterations done  1800  Loss  0
+Testing Error 1120813.19254
+----------------------
+iterations done  1850  Loss  0
+Testing Error 1108720.61204
+----------------------
+iterations done  1900  Loss  834.58063849
+Testing Error 1098372.52064
+----------------------
+iterations done  1950  Loss  0
+Testing Error 1094326.34065
+----------------------
