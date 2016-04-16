@@ -1,120 +1,552 @@
-iterations done  0  Loss  0
-Testing Error 1366444.78627
+number of iterations -  0
+Training Error 42530.0
+Testing Error 10909.0
 ----------------------
-iterations done  50  Loss  0
-Testing Error 1366446.62043
+number of iterations -  200
+Training Error 40098.1773311
+Testing Error 10335.4564069
 ----------------------
-iterations done  100  Loss  0
-Testing Error 1366446.61994
+number of iterations -  400
+Training Error 33387.8171561
+Testing Error 8803.28919443
 ----------------------
-iterations done  150  Loss  0
-Testing Error 1370507.15476
+number of iterations -  600
+Training Error 30364.5545017
+Testing Error 8096.29507236
 ----------------------
-iterations done  200  Loss  0
-Testing Error 1370510.08165
+number of iterations -  800
+Training Error 27877.6359443
+Testing Error 7399.93608424
 ----------------------
-iterations done  250  Loss  0
-Testing Error 1370522.44177
+number of iterations -  1000
+Training Error 26128.0555449
+Testing Error 7003.46030494
 ----------------------
-iterations done  300  Loss  0
-Testing Error 1370166.05172
+number of iterations -  1200
+Training Error 24356.1888519
+Testing Error 6570.85029173
 ----------------------
-iterations done  350  Loss  0
-Testing Error 1370723.68754
+number of iterations -  1400
+Training Error 23454.262254
+Testing Error 6356.0038017
 ----------------------
-iterations done  400  Loss  0
-Testing Error 1370693.26452
+number of iterations -  1600
+Training Error 21388.4052836
+Testing Error 5815.10204037
 ----------------------
-iterations done  450  Loss  0.290518230487
-Testing Error 1370408.84194
+number of iterations -  1800
+Training Error 19658.9983126
+Testing Error 5375.21225504
 ----------------------
-iterations done  500  Loss  0
-Testing Error 1364345.10559
+number of iterations -  2000
+Training Error 18883.1812305
+Testing Error 5230.77374122
 ----------------------
-iterations done  550  Loss  0
-Testing Error 1360307.17458
+number of iterations -  2200
+Training Error 18248.4942869
+Testing Error 5098.89725152
 ----------------------
-iterations done  600  Loss  0
-Testing Error 1358173.73713
+number of iterations -  2400
+Training Error 17902.2546816
+Testing Error 5017.66336058
 ----------------------
-iterations done  650  Loss  0
-Testing Error 1356292.17934
+number of iterations -  2600
+Training Error 17772.2312663
+Testing Error 4981.71721296
 ----------------------
-iterations done  700  Loss  0
-Testing Error 1356480.94624
+number of iterations -  2800
+Training Error 17432.2263184
+Testing Error 4898.14164377
 ----------------------
-iterations done  750  Loss  0
-Testing Error 1355567.7795
+number of iterations -  3000
+Training Error 16961.609762
+Testing Error 4783.06369537
 ----------------------
-iterations done  800  Loss  0
-Testing Error 1355594.90268
+number of iterations -  3200
+Training Error 16437.5040797
+Testing Error 4641.23507027
 ----------------------
-iterations done  850  Loss  266.121402709
-Testing Error 1355578.2046
+number of iterations -  3400
+Training Error 15627.1932265
+Testing Error 4485.27001425
 ----------------------
-iterations done  900  Loss  0
-Testing Error 1355334.98305
+number of iterations -  3600
+Training Error 15383.1530941
+Testing Error 4414.16334366
 ----------------------
-iterations done  950  Loss  0
-Testing Error 1314831.96754
+number of iterations -  3800
+Training Error 15025.815513
+Testing Error 4349.56573642
 ----------------------
-iterations done  1000  Loss  732.248431063
-Testing Error 1339502.28221
+number of iterations -  4000
+Training Error 14467.292834
+Testing Error 4223.12922751
 ----------------------
-iterations done  1050  Loss  1521.88307069
-Testing Error 1344999.19906
+number of iterations -  4200
+Training Error 14377.1286798
+Testing Error 4207.93678231
 ----------------------
-iterations done  1100  Loss  0
-Testing Error 1339999.99091
+number of iterations -  4400
+Training Error 13856.4629502
+Testing Error 4102.92181997
 ----------------------
-iterations done  1150  Loss  150.493049219
-Testing Error 1308652.65436
+number of iterations -  4600
+Training Error 13673.7387159
+Testing Error 4072.2683619
 ----------------------
-iterations done  1200  Loss  0
-Testing Error 1285580.31902
+number of iterations -  4800
+Training Error 13364.5406253
+Testing Error 4029.98359851
 ----------------------
-iterations done  1250  Loss  253.094384564
-Testing Error 1276762.42531
+number of iterations -  5000
+Training Error 13208.9559236
+Testing Error 4014.2598287
 ----------------------
-iterations done  1300  Loss  278.475965319
-Testing Error 1256844.565
+number of iterations -  5200
+Training Error 12918.3593815
+Testing Error 3979.68426937
 ----------------------
-iterations done  1350  Loss  0
-Testing Error 1242786.04011
+number of iterations -  5400
+Training Error 12732.8898588
+Testing Error 3936.8547471
 ----------------------
-iterations done  1400  Loss  2135.83610951
-Testing Error 1227872.64547
+number of iterations -  5600
+Training Error 12642.1923454
+Testing Error 3930.64395851
 ----------------------
-iterations done  1450  Loss  48.6577784455
-Testing Error 1175818.96959
+number of iterations -  5800
+Training Error 12249.5651887
+Testing Error 3863.53757003
 ----------------------
-iterations done  1500  Loss  0
-Testing Error 1169435.89824
+number of iterations -  6000
+Training Error 12158.5200863
+Testing Error 3831.37028881
 ----------------------
-iterations done  1550  Loss  0
-Testing Error 1141740.3975
+number of iterations -  6200
+Training Error 12003.3538512
+Testing Error 3830.09658509
 ----------------------
-iterations done  1600  Loss  0
-Testing Error 1131705.77693
+number of iterations -  6400
+Training Error 11747.1784647
+Testing Error 3784.39737165
 ----------------------
-iterations done  1650  Loss  3665.97615431
-Testing Error 1127793.94021
+number of iterations -  6600
+Training Error 11642.0584467
+Testing Error 3798.55318304
 ----------------------
-iterations done  1700  Loss  0
-Testing Error 1122184.11236
+number of iterations -  6800
+Training Error 11474.9172398
+Testing Error 3760.75534496
 ----------------------
-iterations done  1750  Loss  0
-Testing Error 1129610.83065
+number of iterations -  7000
+Training Error 11308.1430077
+Testing Error 3724.57376823
 ----------------------
-iterations done  1800  Loss  0
-Testing Error 1120813.19254
+number of iterations -  7200
+Training Error 11221.5965031
+Testing Error 3730.7926344
 ----------------------
-iterations done  1850  Loss  0
-Testing Error 1108720.61204
+number of iterations -  7400
+Training Error 11143.3902102
+Testing Error 3729.33632336
 ----------------------
-iterations done  1900  Loss  834.58063849
-Testing Error 1098372.52064
+number of iterations -  7600
+Training Error 11215.9895556
+Testing Error 3754.00019777
 ----------------------
-iterations done  1950  Loss  0
-Testing Error 1094326.34065
+number of iterations -  7800
+Training Error 11116.7873162
+Testing Error 3752.85737554
+----------------------
+number of iterations -  8000
+Training Error 11280.7237786
+Testing Error 3790.04471586
+----------------------
+number of iterations -  8200
+Training Error 10910.039869
+Testing Error 3742.30014216
+----------------------
+number of iterations -  8400
+Training Error 10798.5114736
+Testing Error 3721.94338391
+----------------------
+number of iterations -  8600
+Training Error 10698.4991991
+Testing Error 3717.95365988
+----------------------
+number of iterations -  8800
+Training Error 10493.6542126
+Testing Error 3687.45362674
+----------------------
+number of iterations -  9000
+Training Error 10421.2650038
+Testing Error 3677.28384686
+----------------------
+number of iterations -  9200
+Training Error 10306.3174088
+Testing Error 3662.47306939
+----------------------
+number of iterations -  9400
+Training Error 10320.0447982
+Testing Error 3657.26587132
+----------------------
+number of iterations -  9600
+Training Error 10282.5462355
+Testing Error 3674.00179022
+----------------------
+number of iterations -  9800
+Training Error 10102.9178847
+Testing Error 3647.68468426
+----------------------
+number of iterations -  10000
+Training Error 10027.1950846
+Testing Error 3646.16837179
+----------------------
+number of iterations -  10200
+Training Error 9866.08595398
+Testing Error 3609.72974377
+----------------------
+number of iterations -  10400
+Training Error 10436.158959
+Testing Error 3710.85549212
+----------------------
+number of iterations -  10600
+Training Error 10159.1639032
+Testing Error 3668.27785827
+----------------------
+number of iterations -  10800
+Training Error 9930.59125515
+Testing Error 3623.07004429
+----------------------
+number of iterations -  11000
+Training Error 9713.69919955
+Testing Error 3603.40709792
+----------------------
+number of iterations -  11200
+Training Error 9645.97674191
+Testing Error 3572.99168636
+----------------------
+number of iterations -  11400
+Training Error 9500.24687675
+Testing Error 3528.66951417
+----------------------
+number of iterations -  11600
+Training Error 9633.73431203
+Testing Error 3561.2643606
+----------------------
+number of iterations -  11800
+Training Error 9581.68499587
+Testing Error 3550.91215446
+----------------------
+number of iterations -  12000
+Training Error 9625.01517099
+Testing Error 3562.59874681
+----------------------
+number of iterations -  12200
+Training Error 9389.09502269
+Testing Error 3513.97107315
+----------------------
+number of iterations -  12400
+Training Error 9204.80721787
+Testing Error 3483.54646419
+----------------------
+number of iterations -  12600
+Training Error 8952.00153467
+Testing Error 3449.5349811
+----------------------
+number of iterations -  12800
+Training Error 8706.46969588
+Testing Error 3389.795199
+----------------------
+number of iterations -  13000
+Training Error 8490.88783445
+Testing Error 3361.83774745
+----------------------
+number of iterations -  13200
+Training Error 8266.22347736
+Testing Error 3332.68855541
+----------------------
+number of iterations -  13400
+Training Error 8256.27983375
+Testing Error 3355.85857359
+----------------------
+number of iterations -  13600
+Training Error 8174.07399349
+Testing Error 3352.34969118
+----------------------
+number of iterations -  13800
+Training Error 7844.39920934
+Testing Error 3309.99110298
+----------------------
+number of iterations -  14000
+Training Error 7763.50987273
+Testing Error 3299.84420412
+----------------------
+number of iterations -  14200
+Training Error 7756.71832076
+Testing Error 3327.21423518
+----------------------
+number of iterations -  14400
+Training Error 7672.47051326
+Testing Error 3329.16839766
+----------------------
+number of iterations -  14600
+Training Error 7673.49498179
+Testing Error 3324.37505451
+----------------------
+number of iterations -  14800
+Training Error 7529.18322555
+Testing Error 3295.58208092
+----------------------
+number of iterations -  15000
+Training Error 7820.95808292
+Testing Error 3395.11094859
+----------------------
+number of iterations -  15200
+Training Error 7706.13998649
+Testing Error 3393.25799807
+----------------------
+number of iterations -  15400
+Training Error 7600.09224579
+Testing Error 3385.63764886
+----------------------
+number of iterations -  15600
+Training Error 7335.12679371
+Testing Error 3350.00564345
+----------------------
+number of iterations -  15800
+Training Error 7116.87151585
+Testing Error 3320.94253279
+----------------------
+number of iterations -  16000
+Training Error 6937.51291964
+Testing Error 3279.83539397
+----------------------
+number of iterations -  16200
+Training Error 6796.373787
+Testing Error 3248.16986079
+----------------------
+number of iterations -  16400
+Training Error 6721.48075131
+Testing Error 3234.19863289
+----------------------
+number of iterations -  16600
+Training Error 6659.14222075
+Testing Error 3235.02353398
+----------------------
+number of iterations -  16800
+Training Error 6552.30692618
+Testing Error 3229.83507031
+----------------------
+number of iterations -  17000
+Training Error 6394.88939108
+Testing Error 3212.03851506
+----------------------
+number of iterations -  17200
+Training Error 6297.67851275
+Testing Error 3226.8939144
+----------------------
+number of iterations -  17400
+Training Error 6219.94659593
+Testing Error 3218.44285127
+----------------------
+number of iterations -  17600
+Training Error 6072.46441255
+Testing Error 3199.24510794
+----------------------
+number of iterations -  17800
+Training Error 5988.81799635
+Testing Error 3185.21853332
+----------------------
+number of iterations -  18000
+Training Error 5833.95069406
+Testing Error 3206.0296933
+----------------------
+number of iterations -  18200
+Training Error 5629.12401187
+Testing Error 3187.51288433
+----------------------
+number of iterations -  18400
+Training Error 5591.94058108
+Testing Error 3184.90567381
+----------------------
+number of iterations -  18600
+Training Error 5526.87276372
+Testing Error 3196.75180987
+----------------------
+number of iterations -  18800
+Training Error 5439.20412537
+Testing Error 3181.16355513
+----------------------
+number of iterations -  19000
+Training Error 5375.50664797
+Testing Error 3175.29130901
+----------------------
+number of iterations -  19200
+Training Error 5360.96150031
+Testing Error 3183.15313084
+----------------------
+number of iterations -  19400
+Training Error 5257.33580546
+Testing Error 3162.77687919
+----------------------
+number of iterations -  19600
+Training Error 5193.30496392
+Testing Error 3158.81628954
+----------------------
+number of iterations -  19800
+Training Error 5119.02378591
+Testing Error 3153.05790595
+----------------------
+number of iterations -  20000
+Training Error 5034.29907911
+Testing Error 3154.50732403
+----------------------
+number of iterations -  20200
+Training Error 4993.83071872
+Testing Error 3156.53780479
+----------------------
+number of iterations -  20400
+Training Error 4868.58858013
+Testing Error 3141.26995559
+----------------------
+number of iterations -  20600
+Training Error 4798.66908925
+Testing Error 3129.41203694
+----------------------
+number of iterations -  20800
+Training Error 4774.30358949
+Testing Error 3126.17708323
+----------------------
+number of iterations -  21000
+Training Error 4868.11075157
+Testing Error 3157.34862692
+----------------------
+number of iterations -  21200
+Training Error 4858.87117708
+Testing Error 3166.42343797
+----------------------
+number of iterations -  21400
+Training Error 4728.2854681
+Testing Error 3127.48192571
+----------------------
+number of iterations -  21600
+Training Error 4648.57272827
+Testing Error 3107.27033194
+----------------------
+number of iterations -  21800
+Training Error 4670.4193028
+Testing Error 3130.58978317
+----------------------
+number of iterations -  22000
+Training Error 4717.29862477
+Testing Error 3139.2953844
+----------------------
+number of iterations -  22200
+Training Error 4460.65842463
+Testing Error 3121.0254795
+----------------------
+number of iterations -  22400
+Training Error 4442.46326611
+Testing Error 3110.78974234
+----------------------
+number of iterations -  22600
+Training Error 4407.3408237
+Testing Error 3110.46018499
+----------------------
+number of iterations -  22800
+Training Error 4255.64530998
+Testing Error 3101.37022979
+----------------------
+number of iterations -  23000
+Training Error 4154.58456082
+Testing Error 3096.36356216
+----------------------
+number of iterations -  23200
+Training Error 4120.02429325
+Testing Error 3090.86527316
+----------------------
+number of iterations -  23400
+Training Error 4013.0922846
+Testing Error 3077.48053747
+----------------------
+number of iterations -  23600
+Training Error 3970.42285815
+Testing Error 3070.40332235
+----------------------
+number of iterations -  23800
+Training Error 4139.01436606
+Testing Error 3101.37474672
+----------------------
+number of iterations -  24000
+Training Error 4263.3336334
+Testing Error 3130.85672142
+----------------------
+number of iterations -  24200
+Training Error 4226.49989738
+Testing Error 3139.75767671
+----------------------
+number of iterations -  24400
+Training Error 3963.01105979
+Testing Error 3100.61840147
+----------------------
+number of iterations -  24600
+Training Error 4053.41130158
+Testing Error 3116.33277071
+----------------------
+number of iterations -  24800
+Training Error 3840.40575731
+Testing Error 3092.93269375
+----------------------
+number of iterations -  25000
+Training Error 3791.33618845
+Testing Error 3086.96887494
+----------------------
+number of iterations -  25200
+Training Error 3755.24667871
+Testing Error 3101.81036926
+----------------------
+number of iterations -  25400
+Training Error 4230.06011068
+Testing Error 3152.48849919
+----------------------
+number of iterations -  25600
+Training Error 4227.15529638
+Testing Error 3143.17583832
+----------------------
+number of iterations -  25800
+Training Error 4341.28274901
+Testing Error 3159.47134391
+----------------------
+number of iterations -  26000
+Training Error 3922.56603323
+Testing Error 3097.4907012
+----------------------
+number of iterations -  26200
+Training Error 3598.53590675
+Testing Error 3078.21453509
+----------------------
+number of iterations -  26400
+Training Error 3543.9766323
+Testing Error 3077.27431287
+----------------------
+number of iterations -  26600
+Training Error 3426.68875413
+Testing Error 3054.14751139
+----------------------
+number of iterations -  26800
+Training Error 3154.30457298
+Testing Error 3010.79759144
+----------------------
+number of iterations -  27000
+Training Error 3115.97992695
+Testing Error 3022.55896636
+----------------------
+number of iterations -  27200
+Training Error 2942.97413462
+Testing Error 2996.05353085
+----------------------
+number of iterations -  27400
+Training Error 2842.501127
+Testing Error 2982.84553776
 ----------------------
