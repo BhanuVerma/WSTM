@@ -1,552 +1,552 @@
 number of iterations -  0
-Training Error 1.49212827988
-Testing Error 1.57084548105
+Training Error 0.112419467717
+Testing Error 0.441076275635
 -----------------------------
 number of iterations -  200
-Training Error 1.41324176789
-Testing Error 1.48697651435
+Training Error 0.341572518499
+Testing Error 0.537425245544
 -----------------------------
 number of iterations -  400
-Training Error 1.27796333292
-Testing Error 1.35328940735
+Training Error 0.336094338108
+Testing Error 0.532916437816
 -----------------------------
 number of iterations -  600
-Training Error 1.20142140431
-Testing Error 1.27054314723
+Training Error 0.330625423549
+Testing Error 0.528163285777
 -----------------------------
 number of iterations -  800
-Training Error 1.12471907191
-Testing Error 1.18971640319
+Training Error 0.325941019393
+Testing Error 0.5247234528
 -----------------------------
 number of iterations -  1000
-Training Error 0.965931825022
-Testing Error 1.01602843457
+Training Error 0.320128857794
+Testing Error 0.517545836835
 -----------------------------
 number of iterations -  1200
-Training Error 0.888083573964
-Testing Error 0.939783111221
+Training Error 0.319105122647
+Testing Error 0.518292357457
 -----------------------------
 number of iterations -  1400
-Training Error 0.834190240942
-Testing Error 0.882148790354
+Training Error 0.31730535094
+Testing Error 0.518116528329
 -----------------------------
 number of iterations -  1600
-Training Error 0.818234537253
-Testing Error 0.86330462627
+Training Error 0.314867981831
+Testing Error 0.516103437758
 -----------------------------
 number of iterations -  1800
-Training Error 0.80185881792
-Testing Error 0.848152938526
+Training Error 0.310716308218
+Testing Error 0.512192150187
 -----------------------------
 number of iterations -  2000
-Training Error 0.770114346153
-Testing Error 0.820847414211
+Training Error 0.309284451488
+Testing Error 0.512537679934
 -----------------------------
 number of iterations -  2200
-Training Error 0.747864938895
-Testing Error 0.80435334922
+Training Error 0.308175473528
+Testing Error 0.51234435526
 -----------------------------
 number of iterations -  2400
-Training Error 0.711032521334
-Testing Error 0.769279422308
+Training Error 0.305773821527
+Testing Error 0.51096668578
 -----------------------------
 number of iterations -  2600
-Training Error 0.677882107959
-Testing Error 0.739221288622
+Training Error 0.301979470104
+Testing Error 0.508454410109
 -----------------------------
 number of iterations -  2800
-Training Error 0.662220289293
-Testing Error 0.722787610702
+Training Error 0.300567657921
+Testing Error 0.506886529993
 -----------------------------
 number of iterations -  3000
-Training Error 0.635549019529
-Testing Error 0.695228955095
+Training Error 0.299970496186
+Testing Error 0.506765483385
 -----------------------------
 number of iterations -  3200
-Training Error 0.617150780431
-Testing Error 0.684475549897
+Training Error 0.298647081596
+Testing Error 0.506961212372
 -----------------------------
 number of iterations -  3400
-Training Error 0.593239215056
-Testing Error 0.664213365719
+Training Error 0.296630350685
+Testing Error 0.505661855299
 -----------------------------
 number of iterations -  3600
-Training Error 0.5777638802
-Testing Error 0.655929699099
+Training Error 0.295132890827
+Testing Error 0.504663594659
 -----------------------------
 number of iterations -  3800
-Training Error 0.560936614606
-Testing Error 0.641909888163
+Training Error 0.293157897109
+Testing Error 0.503006732997
 -----------------------------
 number of iterations -  4000
-Training Error 0.549582804336
-Testing Error 0.631781225134
+Training Error 0.291001490979
+Testing Error 0.501858171559
 -----------------------------
 number of iterations -  4200
-Training Error 0.532992324928
-Testing Error 0.62293072376
+Training Error 0.289707252675
+Testing Error 0.501679341722
 -----------------------------
 number of iterations -  4400
-Training Error 0.516391809552
-Testing Error 0.609317922476
+Training Error 0.287298589111
+Testing Error 0.499525406217
 -----------------------------
 number of iterations -  4600
-Training Error 0.509244113316
-Testing Error 0.603884382932
+Training Error 0.28580173771
+Testing Error 0.498551070854
 -----------------------------
 number of iterations -  4800
-Training Error 0.494246283117
-Testing Error 0.588585928111
+Training Error 0.284259610587
+Testing Error 0.497455932891
 -----------------------------
 number of iterations -  5000
-Training Error 0.490059167119
-Testing Error 0.586152013745
+Training Error 0.282861105077
+Testing Error 0.49609717496
 -----------------------------
 number of iterations -  5200
-Training Error 0.481989562841
-Testing Error 0.580070133319
+Training Error 0.280785345494
+Testing Error 0.495005393271
 -----------------------------
 number of iterations -  5400
-Training Error 0.468792949728
-Testing Error 0.565521972399
+Training Error 0.278460910522
+Testing Error 0.492255316495
 -----------------------------
 number of iterations -  5600
-Training Error 0.463955296891
-Testing Error 0.560570669406
+Training Error 0.278006973611
+Testing Error 0.493397266098
 -----------------------------
 number of iterations -  5800
-Training Error 0.460952743512
-Testing Error 0.560152921216
+Training Error 0.27640140474
+Testing Error 0.492026628043
 -----------------------------
 number of iterations -  6000
-Training Error 0.460948598661
-Testing Error 0.560571518392
+Training Error 0.275653679073
+Testing Error 0.492315838999
 -----------------------------
 number of iterations -  6200
-Training Error 0.456935923175
-Testing Error 0.557922298752
+Training Error 0.275522277744
+Testing Error 0.492239449591
 -----------------------------
 number of iterations -  6400
-Training Error 0.455210032435
-Testing Error 0.557500728699
+Training Error 0.278219338744
+Testing Error 0.495137569905
 -----------------------------
 number of iterations -  6600
-Training Error 0.447089528812
-Testing Error 0.553632229766
+Training Error 0.277737145291
+Testing Error 0.496086151293
 -----------------------------
 number of iterations -  6800
-Training Error 0.442429211836
-Testing Error 0.555278575761
+Training Error 0.277691576029
+Testing Error 0.497732548908
 -----------------------------
 number of iterations -  7000
-Training Error 0.46215897747
-Testing Error 0.575878260635
+Training Error 0.284223070394
+Testing Error 0.505482100313
 -----------------------------
 number of iterations -  7200
-Training Error 0.445660690461
-Testing Error 0.562250193307
+Training Error 0.281169901455
+Testing Error 0.503001796111
 -----------------------------
 number of iterations -  7400
-Training Error 0.444713973974
-Testing Error 0.562282583849
+Training Error 0.281729130484
+Testing Error 0.50518965712
 -----------------------------
 number of iterations -  7600
-Training Error 0.426168828779
-Testing Error 0.547857591394
+Training Error 0.275119315739
+Testing Error 0.500547604494
 -----------------------------
 number of iterations -  7800
-Training Error 0.417319701727
-Testing Error 0.5390288122
+Training Error 0.272765936526
+Testing Error 0.497931046045
 -----------------------------
 number of iterations -  8000
-Training Error 0.406762783906
-Testing Error 0.532162704135
+Training Error 0.269544692654
+Testing Error 0.495937067219
 -----------------------------
 number of iterations -  8200
-Training Error 0.401713671527
-Testing Error 0.5284671334
+Training Error 0.268852727762
+Testing Error 0.496909954123
 -----------------------------
 number of iterations -  8400
-Training Error 0.393709293751
-Testing Error 0.522670797083
+Training Error 0.265213133496
+Testing Error 0.494528064872
 -----------------------------
 number of iterations -  8600
-Training Error 0.387268338578
-Testing Error 0.517108077538
+Training Error 0.263713793145
+Testing Error 0.493519320386
 -----------------------------
 number of iterations -  8800
-Training Error 0.385670595421
-Testing Error 0.517451264575
+Training Error 0.262031077095
+Testing Error 0.492775373188
 -----------------------------
 number of iterations -  9000
-Training Error 0.381045080721
-Testing Error 0.515378311962
+Training Error 0.262215914054
+Testing Error 0.494598124542
 -----------------------------
 number of iterations -  9200
-Training Error 0.376474581081
-Testing Error 0.514619472912
+Training Error 0.260892825137
+Testing Error 0.49434115967
 -----------------------------
 number of iterations -  9400
-Training Error 0.374603124051
-Testing Error 0.517880428477
+Training Error 0.260437782946
+Testing Error 0.495481638606
 -----------------------------
 number of iterations -  9600
-Training Error 0.373291089925
-Testing Error 0.518832258732
+Training Error 0.261492751294
+Testing Error 0.496615485132
 -----------------------------
 number of iterations -  9800
-Training Error 0.370146325719
-Testing Error 0.517815177981
+Training Error 0.25741109249
+Testing Error 0.492901208227
 -----------------------------
 number of iterations -  10000
-Training Error 0.367708557788
-Testing Error 0.517960533213
+Training Error 0.257193035901
+Testing Error 0.493536081979
 -----------------------------
 number of iterations -  10200
-Training Error 0.362800217605
-Testing Error 0.512974066429
+Training Error 0.256884751502
+Testing Error 0.49320624589
 -----------------------------
 number of iterations -  10400
-Training Error 0.356708680392
-Testing Error 0.508352954547
+Training Error 0.248114457
+Testing Error 0.48375001953
 -----------------------------
 number of iterations -  10600
-Training Error 0.354458227351
-Testing Error 0.509500961258
+Training Error 0.24645368546
+Testing Error 0.482805806572
 -----------------------------
 number of iterations -  10800
-Training Error 0.350454626452
-Testing Error 0.506623346616
+Training Error 0.243160078467
+Testing Error 0.479782109798
 -----------------------------
 number of iterations -  11000
-Training Error 0.347967445723
-Testing Error 0.508508913927
+Training Error 0.242423826394
+Testing Error 0.479791571131
 -----------------------------
 number of iterations -  11200
-Training Error 0.345276287338
-Testing Error 0.507365539294
+Training Error 0.242023208864
+Testing Error 0.479764782219
 -----------------------------
 number of iterations -  11400
-Training Error 0.352210459779
-Testing Error 0.51396897687
+Training Error 0.249109965151
+Testing Error 0.488032465654
 -----------------------------
 number of iterations -  11600
-Training Error 0.340332613107
-Testing Error 0.503620660534
+Training Error 0.244016639273
+Testing Error 0.482707339506
 -----------------------------
 number of iterations -  11800
-Training Error 0.334474260223
-Testing Error 0.499017891326
+Training Error 0.24410486193
+Testing Error 0.48311726147
 -----------------------------
 number of iterations -  12000
-Training Error 0.32730173337
-Testing Error 0.492943103979
+Training Error 0.239887473993
+Testing Error 0.479692536101
 -----------------------------
 number of iterations -  12200
-Training Error 0.324841166688
-Testing Error 0.492100875429
+Training Error 0.242197976975
+Testing Error 0.483755718629
 -----------------------------
 number of iterations -  12400
-Training Error 0.322126744184
-Testing Error 0.491197153892
+Training Error 0.239469613702
+Testing Error 0.481910533193
 -----------------------------
 number of iterations -  12600
-Training Error 0.311504244069
-Testing Error 0.487215012717
+Training Error 0.235410810432
+Testing Error 0.478800788863
 -----------------------------
 number of iterations -  12800
-Training Error 0.3115006316
-Testing Error 0.490752537842
+Training Error 0.235262901323
+Testing Error 0.479187503724
 -----------------------------
 number of iterations -  13000
-Training Error 0.306603310477
-Testing Error 0.489614105036
+Training Error 0.232830270491
+Testing Error 0.477871782681
 -----------------------------
 number of iterations -  13200
-Training Error 0.305857509331
-Testing Error 0.491384315236
+Training Error 0.234609092045
+Testing Error 0.481171903889
 -----------------------------
 number of iterations -  13400
-Training Error 0.299198830498
-Testing Error 0.487153398393
+Training Error 0.228286590682
+Testing Error 0.474693044428
 -----------------------------
 number of iterations -  13600
-Training Error 0.298624107583
-Testing Error 0.488917167403
+Training Error 0.227199060617
+Testing Error 0.474071476029
 -----------------------------
 number of iterations -  13800
-Training Error 0.294434297304
-Testing Error 0.486688931717
+Training Error 0.224256253658
+Testing Error 0.47084045588
 -----------------------------
 number of iterations -  14000
-Training Error 0.297240257997
-Testing Error 0.495365981424
+Training Error 0.226775137814
+Testing Error 0.475704203679
 -----------------------------
 number of iterations -  14200
-Training Error 0.298736639269
-Testing Error 0.498854744084
+Training Error 0.224591158788
+Testing Error 0.474670737191
 -----------------------------
 number of iterations -  14400
-Training Error 0.28777165896
-Testing Error 0.491648060755
+Training Error 0.225008386571
+Testing Error 0.475432867581
 -----------------------------
 number of iterations -  14600
-Training Error 0.282580504517
-Testing Error 0.489201059738
+Training Error 0.222027828587
+Testing Error 0.473509958885
 -----------------------------
 number of iterations -  14800
-Training Error 0.276375375491
-Testing Error 0.484867423132
+Training Error 0.220056105313
+Testing Error 0.472511809949
 -----------------------------
 number of iterations -  15000
-Training Error 0.291048200927
-Testing Error 0.503155580077
+Training Error 0.228561667486
+Testing Error 0.484667026536
 -----------------------------
 number of iterations -  15200
-Training Error 0.282671487605
-Testing Error 0.497134471138
+Training Error 0.225320171933
+Testing Error 0.481981938424
 -----------------------------
 number of iterations -  15400
-Training Error 0.273587614664
-Testing Error 0.48983890839
+Training Error 0.221350575686
+Testing Error 0.47840618666
 -----------------------------
 number of iterations -  15600
-Training Error 0.262410490075
-Testing Error 0.485301342333
+Training Error 0.218962285858
+Testing Error 0.477780423779
 -----------------------------
 number of iterations -  15800
-Training Error 0.258541810829
-Testing Error 0.479001367229
+Training Error 0.217102406377
+Testing Error 0.477037431409
 -----------------------------
 number of iterations -  16000
-Training Error 0.254547264068
-Testing Error 0.478133179876
+Training Error 0.215659687315
+Testing Error 0.476017684031
 -----------------------------
 number of iterations -  16200
-Training Error 0.255576796418
-Testing Error 0.481609787796
+Training Error 0.218634994098
+Testing Error 0.479952075987
 -----------------------------
 number of iterations -  16400
-Training Error 0.259447758518
-Testing Error 0.489283247597
+Training Error 0.222173773321
+Testing Error 0.484360646638
 -----------------------------
 number of iterations -  16600
-Training Error 0.251048559006
-Testing Error 0.483243330046
+Training Error 0.215412609286
+Testing Error 0.478722898833
 -----------------------------
 number of iterations -  16800
-Training Error 0.244189600065
-Testing Error 0.47860770231
+Training Error 0.211027831169
+Testing Error 0.474124493483
 -----------------------------
 number of iterations -  17000
-Training Error 0.243505632284
-Testing Error 0.479200255119
+Training Error 0.211838137223
+Testing Error 0.47572861936
 -----------------------------
 number of iterations -  17200
-Training Error 0.239154741583
-Testing Error 0.477993593007
+Training Error 0.209789218492
+Testing Error 0.473939280291
 -----------------------------
 number of iterations -  17400
-Training Error 0.232254791045
-Testing Error 0.473937386015
+Training Error 0.204738541236
+Testing Error 0.469919962425
 -----------------------------
 number of iterations -  17600
-Training Error 0.225264483567
-Testing Error 0.467466200052
+Training Error 0.201880264865
+Testing Error 0.466781900069
 -----------------------------
 number of iterations -  17800
-Training Error 0.225190243572
-Testing Error 0.468812300915
+Training Error 0.205118227627
+Testing Error 0.471788582719
 -----------------------------
 number of iterations -  18000
-Training Error 0.22290315526
-Testing Error 0.470581482269
+Training Error 0.203375419164
+Testing Error 0.470384385932
 -----------------------------
 number of iterations -  18200
-Training Error 0.223542621576
-Testing Error 0.472697004904
+Training Error 0.20423173467
+Testing Error 0.473016441565
 -----------------------------
 number of iterations -  18400
-Training Error 0.24930562401
-Testing Error 0.502703740195
+Training Error 0.223580197235
+Testing Error 0.495884704625
 -----------------------------
 number of iterations -  18600
-Training Error 0.239499622625
-Testing Error 0.495017377249
+Training Error 0.21913804676
+Testing Error 0.491918956266
 -----------------------------
 number of iterations -  18800
-Training Error 0.243806274638
-Testing Error 0.499613050454
+Training Error 0.219190977027
+Testing Error 0.49224269882
 -----------------------------
 number of iterations -  19000
-Training Error 0.222616166108
-Testing Error 0.483647819294
+Training Error 0.214214681384
+Testing Error 0.486942259861
 -----------------------------
 number of iterations -  19200
-Training Error 0.220351833978
-Testing Error 0.483839688659
+Training Error 0.212925696236
+Testing Error 0.486909977898
 -----------------------------
 number of iterations -  19400
-Training Error 0.215295403693
-Testing Error 0.482403063157
+Training Error 0.210349312647
+Testing Error 0.485384276595
 -----------------------------
 number of iterations -  19600
-Training Error 0.206154887113
-Testing Error 0.474391514081
+Training Error 0.20603656954
+Testing Error 0.482177168678
 -----------------------------
 number of iterations -  19800
-Training Error 0.206925347642
-Testing Error 0.47526199677
+Training Error 0.205384590013
+Testing Error 0.482409075011
 -----------------------------
 number of iterations -  20000
-Training Error 0.204503223041
-Testing Error 0.475461286093
+Training Error 0.204559176107
+Testing Error 0.482839290598
 -----------------------------
 number of iterations -  20200
-Training Error 0.200806296518
-Testing Error 0.472432431526
+Training Error 0.202021088492
+Testing Error 0.481107285453
 -----------------------------
 number of iterations -  20400
-Training Error 0.195570856278
-Testing Error 0.469011235771
+Training Error 0.198056161187
+Testing Error 0.478764344635
 -----------------------------
 number of iterations -  20600
-Training Error 0.192284688385
-Testing Error 0.463523355173
+Training Error 0.197061161907
+Testing Error 0.477519966623
 -----------------------------
 number of iterations -  20800
-Training Error 0.201970844489
-Testing Error 0.47396786698
+Training Error 0.202794490071
+Testing Error 0.483677496743
 -----------------------------
 number of iterations -  21000
-Training Error 0.194277947138
-Testing Error 0.467549169908
+Training Error 0.19916166976
+Testing Error 0.480830019392
 -----------------------------
 number of iterations -  21200
-Training Error 0.183428999502
-Testing Error 0.459357985905
+Training Error 0.19296139964
+Testing Error 0.474726533804
 -----------------------------
 number of iterations -  21400
-Training Error 0.183897664892
-Testing Error 0.461260239273
+Training Error 0.190900971844
+Testing Error 0.47361696101
 -----------------------------
 number of iterations -  21600
-Training Error 0.176630392623
-Testing Error 0.457551104408
+Training Error 0.18891652527
+Testing Error 0.472937755756
 -----------------------------
 number of iterations -  21800
-Training Error 0.171430611297
-Testing Error 0.454060783395
+Training Error 0.188624559351
+Testing Error 0.471935891904
 -----------------------------
 number of iterations -  22000
-Training Error 0.166544175193
-Testing Error 0.457690898493
+Training Error 0.191927740756
+Testing Error 0.477900285772
 -----------------------------
 number of iterations -  22200
-Training Error 0.165547008822
-Testing Error 0.457933453767
+Training Error 0.189618976841
+Testing Error 0.476081800661
 -----------------------------
 number of iterations -  22400
-Training Error 0.162154199774
-Testing Error 0.455805415939
+Training Error 0.185503790076
+Testing Error 0.472458590913
 -----------------------------
 number of iterations -  22600
-Training Error 0.16284402575
-Testing Error 0.456405224174
+Training Error 0.186604899068
+Testing Error 0.473598721074
 -----------------------------
 number of iterations -  22800
-Training Error 0.155231459238
-Testing Error 0.450075077541
+Training Error 0.183739926313
+Testing Error 0.471548547534
 -----------------------------
 number of iterations -  23000
-Training Error 0.154105380257
-Testing Error 0.451772192925
+Training Error 0.186161762468
+Testing Error 0.474189082106
 -----------------------------
 number of iterations -  23200
-Training Error 0.150112809168
-Testing Error 0.449400681057
+Training Error 0.183392144476
+Testing Error 0.47171358031
 -----------------------------
 number of iterations -  23400
-Training Error 0.152591591557
-Testing Error 0.452635587227
+Training Error 0.184668410058
+Testing Error 0.473942812615
 -----------------------------
 number of iterations -  23600
-Training Error 0.147615221603
-Testing Error 0.448393149737
+Training Error 0.1810858828
+Testing Error 0.471634180726
 -----------------------------
 number of iterations -  23800
-Training Error 0.146276921289
-Testing Error 0.448832641565
+Training Error 0.182237098166
+Testing Error 0.472765330776
 -----------------------------
 number of iterations -  24000
-Training Error 0.145555945618
-Testing Error 0.448057661505
+Training Error 0.181514792429
+Testing Error 0.472108876457
 -----------------------------
 number of iterations -  24200
-Training Error 0.159287346658
-Testing Error 0.460097221677
+Training Error 0.192608833408
+Testing Error 0.483811001283
 -----------------------------
 number of iterations -  24400
-Training Error 0.156797442744
-Testing Error 0.461587523566
+Training Error 0.1894882735
+Testing Error 0.481478533467
 -----------------------------
 number of iterations -  24600
-Training Error 0.155819080499
-Testing Error 0.461702233594
+Training Error 0.188739577607
+Testing Error 0.481530733039
 -----------------------------
 number of iterations -  24800
-Training Error 0.144662665499
-Testing Error 0.452689297936
+Training Error 0.185928588806
+Testing Error 0.479529527817
 -----------------------------
 number of iterations -  25000
-Training Error 0.136745640728
-Testing Error 0.445612764794
+Training Error 0.182231705108
+Testing Error 0.476024568174
 -----------------------------
 number of iterations -  25200
-Training Error 0.136547821041
-Testing Error 0.444530584986
+Training Error 0.191139833851
+Testing Error 0.4848675096
 -----------------------------
 number of iterations -  25400
-Training Error 0.139684496056
-Testing Error 0.453388787549
+Training Error 0.194230949893
+Testing Error 0.489434358499
 -----------------------------
 number of iterations -  25600
-Training Error 0.135064690806
-Testing Error 0.450046363589
+Training Error 0.18747376666
+Testing Error 0.483181945469
 -----------------------------
 number of iterations -  25800
-Training Error 0.140050519399
-Testing Error 0.45505763433
+Training Error 0.190160688038
+Testing Error 0.48595934581
 -----------------------------
 number of iterations -  26000
-Training Error 0.135617899316
-Testing Error 0.450507509932
+Training Error 0.186438463619
+Testing Error 0.482440798429
 -----------------------------
 number of iterations -  26200
-Training Error 0.127237667312
-Testing Error 0.444886847104
+Training Error 0.181772503334
+Testing Error 0.478784595373
 -----------------------------
 number of iterations -  26400
-Training Error 0.115417029557
-Testing Error 0.436173230966
+Training Error 0.176193836701
+Testing Error 0.474537665492
 -----------------------------
 number of iterations -  26600
-Training Error 0.112702609442
-Testing Error 0.435734415073
+Training Error 0.170239903649
+Testing Error 0.469352782764
 -----------------------------
 number of iterations -  26800
-Training Error 0.126805984794
-Testing Error 0.450733668812
+Training Error 0.18014803195
+Testing Error 0.478762769799
 -----------------------------
 number of iterations -  27000
-Training Error 0.124034487616
-Testing Error 0.448237575296
+Training Error 0.176571296556
+Testing Error 0.476081261031
 -----------------------------
 number of iterations -  27200
-Training Error 0.115960685913
-Testing Error 0.442432854524
+Training Error 0.170206230054
+Testing Error 0.471801924418
 -----------------------------
 number of iterations -  27400
-Training Error 0.113520719126
-Testing Error 0.442133954127
+Training Error 0.170483174532
+Testing Error 0.47318730496
 -----------------------------
